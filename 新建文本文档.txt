@@ -1,0 +1,14 @@
+Administrator@XB-201608071257 MINGW64 /e/git (master)
+$ git add .
+warning: LF will be replaced by CRLF in xin.txt.
+The file will have its original line endings in your working directory.
+
+
+
+
+
+
+
+
+
+git@github.com:xingkonglishi123/161121.git
